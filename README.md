@@ -304,9 +304,13 @@ the existing most efficient exact algorithm for top-k MR query (VLDB'14)
 	
 #### 6. "preprocessing.time" : the time file for this preprocessing
 6.1 "clustering time" : the time for doing the graph clustering
+
 6.2 "reorder time" : the time for reordering the clusters
+
 6.3 "permute time" : the time for getting the permutation matrix 
+
 6.4 "decomposition time" : the time for decomposing the matrix
+
 6.5 "total preprocessing time" :  the total preprocessing time of Mogul
 
 ## Appendix F. The output files of the preprocessing phase of "Mogul-E"
@@ -358,9 +362,14 @@ the existing most efficient exact algorithm for top-k MR query (VLDB'14)
 	 
 #### 6. "preprocessing_Mogul_E.time" : the time file for this preprocessing
 6.1 "clustering time" : the time for doing the graph clustering
+
 6.2 "reorder time" : the time for reordering the clusters
+
 6.3 "permute time" : the time for getting the permutation matrix 
+
 6.4 "decomposition time" : the time for decomposing the matrix
+
 6.5 "total preprocessing time" :  the total preprocessing time of Mogul
+
 
 
