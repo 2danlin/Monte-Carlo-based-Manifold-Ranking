@@ -232,15 +232,15 @@ the existing most efficient exact algorithm for top-k MR query (VLDB'14)
 ## Appendix C. Format of dataset file (taking the large 500-NN graph"coil.txt" or the real knn graph "coil_5.txt" for example)
 
 #### 1. The first line in the file is 
-       - > no. of nodes in this graph
+- > no. of nodes in this graph
 
 #### 2. The following lines after the first line is
-      
-      - the edges of this graph which are represented by the following format:
-      - 
-        ```
-	<From-node> <To-node> <weight> (separated by space)
-	```
+
+the edges of this graph which are represented by the following format:
+
+```
+<From-node> <To-node> <weight> (separated by space)
+```
 
 
 
